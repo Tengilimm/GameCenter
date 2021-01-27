@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCenter", "GameCenter.csproj", "{391A2CA1-742B-44BA-AE2E-C254BF2A9803}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{391A2CA1-742B-44BA-AE2E-C254BF2A9803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391A2CA1-742B-44BA-AE2E-C254BF2A9803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391A2CA1-742B-44BA-AE2E-C254BF2A9803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391A2CA1-742B-44BA-AE2E-C254BF2A9803}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D814B0A6-44AE-4B12-85F2-1BEFF9BA6DD2}
+	EndGlobalSection
+EndGlobal
